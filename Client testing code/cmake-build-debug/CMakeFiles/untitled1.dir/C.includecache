@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/l/Desktop/Project files./Client testing code/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+errno.h
+-
+netdb.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+sys/wait.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+

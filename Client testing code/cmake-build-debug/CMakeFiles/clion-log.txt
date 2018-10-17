@@ -1,4 +1,4 @@
-/home/l/Downloads/clion-2018.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/l/Desktop/Project files./untitled-client code"
+/home/l/Downloads/clion-2018.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/l/Desktop/Project files./Client testing code"
 -- The C compiler identification is GNU 5.4.0
 -- Check for working C compiler: /usr/bin/cc
 -- Check for working C compiler: /usr/bin/cc -- works
@@ -11,4 +11,4 @@
 --   Found gtk+-3.0, version 3.18.9
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/l/Desktop/Project files./untitled-client code/cmake-build-debug
+-- Build files have been written to: /home/l/Desktop/Project files./Client testing code/cmake-build-debug

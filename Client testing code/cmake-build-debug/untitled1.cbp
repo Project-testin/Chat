@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/l/Desktop/Project files./untitled-client code/cmake-build-debug"/>
+				<Option working_dir="/home/l/Desktop/Project files./Client testing code/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/l/Desktop/Project files./untitled-client code/cmake-build-debug"/>
+				<Option working_dir="/home/l/Desktop/Project files./Client testing code/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/l/Desktop/Project files./untitled-client code/cmake-build-debug"/>
+				<Option working_dir="/home/l/Desktop/Project files./Client testing code/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1">
-				<Option output="/home/l/Desktop/Project files./untitled-client code/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/l/Desktop/Project files./untitled-client code/cmake-build-debug"/>
+				<Option output="/home/l/Desktop/Project files./Client testing code/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/l/Desktop/Project files./Client testing code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -70,15 +70,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="untitled1/fast">
-				<Option output="/home/l/Desktop/Project files./untitled-client code/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/l/Desktop/Project files./untitled-client code/cmake-build-debug"/>
+				<Option output="/home/l/Desktop/Project files./Client testing code/cmake-build-debug/untitled1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/l/Desktop/Project files./Client testing code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -109,17 +109,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./untitled-client\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/l/Desktop/Project\ files./Client\ testing\ code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/l/Desktop/Project files./untitled-client code/main.c">
+		<Unit filename="/home/l/Desktop/Project files./Client testing code/main.c">
 			<Option target="untitled1"/>
 		</Unit>
-		<Unit filename="/home/l/Desktop/Project files./untitled-client code/CMakeLists.txt">
+		<Unit filename="/home/l/Desktop/Project files./Client testing code/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
