@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.12)
-project(Test)
+project(Test C)
 
 FIND_PACKAGE(PkgConfig REQUIRED)
 PKG_CHECK_MODULES(GTK3 REQUIRED gtk+-3.0)
@@ -11,6 +11,6 @@ ADD_DEFINITIONS(${GTK3_CFLAGS_OTHER})
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(untitled main.c)
+add_executable(Test main.c)
 
-TARGET_LINK_LIBRARIES(untitled ${GTK3_LIBRARIES})
+TARGET_LINK_LIBRARIES(Test ${GTK3_LIBRARIES})
